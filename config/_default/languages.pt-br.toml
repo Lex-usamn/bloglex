@@ -1,0 +1,77 @@
+disabled = false
+languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
+weight = 1
+title = "Lex-Usamn"
+
+[params]
+  displayName = "BR"
+  isoCode = "pt-br"
+  rtl = false
+  dateFormat = "2 de Janeiro de 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "Meu site incrível"
+  copyright = "© 2025 Lex Usamn · Feito com Hugo 🚀 | Sistemas, Bots e IA"
+
+
+[params.author]
+  name = "Lex Usamn"
+  email = "contato@lexusamn.com.br"
+  image = "images/lex-usamn2.jpg"
+  imageQuality = 100
+  headline = "Nerd de TI e Tecnologia | Fã de DevOps e Automação"
+  bio = "Especialista em servidores de jogos, automação e inteligência artificial. Desde 2001 trabalhando com manutenção, redes e inovação tecnológica."
+   links = [
+     { email = "mailto:contato@lex-usamn.com.br" },
+#     { link = "https://link-para-algum-site.com/" },
+#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+#     { apple = "https://www.apple.com" },
+#     { blogger = "https://usuario.blogspot.com/" },
+#     { bluesky = "https://bsky.app/profile/usuario" },
+#     { codepen = "https://codepen.io/usuario" },
+#     { dev = "https://dev.to/usuario" },
+     { discord = "https://discord.gg/XNv9wspb" },
+#     { dribbble = "https://dribbble.com/usuario" },
+#     { facebook = "https://facebook.com/usuario" },
+#     { flickr = "https://www.flickr.com/photos/usuario/" },
+#     { foursquare = "https://foursquare.com/usuario" },
+     { github = "https://github.com/Lex-usamn" },
+#     { gitlab = "https://gitlab.com/usuario" },
+#     { google = "https://www.google.com/" },
+#     { hashnode = "https://usuario.hashnode.dev" },
+     { instagram = "https://www.instagram.com/lex_usamn/" },
+#     { itch-io = "https://usuario.itch.io" },
+#     { keybase = "https://keybase.io/usuario" },
+#     { keyoxide = "https://keyoxide.org/URI" },
+#     { kickstarter = "https://www.kickstarter.com/profile/usuario" },
+#     { lastfm = "https://lastfm.com/user/usuario" },
+#     { linkedin = "https://linkedin.com/in/usuario" },
+#     { mastodon = "https://mastodon.instance/@usuario" },
+#     { matrix = "https://matrix.to/#/URI" },
+#     { medium = "https://medium.com/usuario" },
+#     { microsoft = "https://www.microsoft.com/" },
+#     { orcid = "https://orcid.org/userid" },
+#     { patreon = "https://www.patreon.com/usuario" },
+#     { pinterest = "https://pinterest.com/usuario" },
+#     { reddit = "https://reddit.com/user/usuario" },
+#     { researchgate = "https://www.researchgate.net/profile/usuario" },
+#     { signal = "https://signal.me/#eu/userid" },
+#     { slack = "https://workspace.url/team/userid" },
+#     { snapchat = "https://snapchat.com/add/usuario" },
+#     { soundcloud = "https://soundcloud.com/usuario" },
+#     { spotify = "https://open.spotify.com/user/userid" },
+#     { stack-overflow = "https://stackoverflow.com/users/userid/usuario" },
+#     { steam = "https://steamcommunity.com/profiles/userid" },
+#     { telegram = "https://t.me/usuario" },
+#     { threads = "https://www.threads.net/@usuario" },
+#     { tiktok = "https://tiktok.com/@usuario" },
+#     { tumblr = "https://usuario.tumblr.com" },
+#     { twitch = "https://twitch.tv/usuario" },
+#     { twitter = "https://twitter.com/usuario" },
+#     { x-twitter = "https://twitter.com/usuario" },
+#     { whatsapp = "https://wa.me/numero-telefone" },
+#     { youtube = "https://youtube.com/usuario" },
+#     { ko-fi = "https://ko-fi.com/usuario" },
+#     { codeberg = "https://codeberg.org/usuario"},
+   ]

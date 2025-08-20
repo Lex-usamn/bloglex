@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Lex-Usamn</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Lex-Usamn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>contato@lexusamn.com.br (Lex Usamn)</managingEditor>
+    <webMaster>contato@lexusamn.com.br (Lex Usamn)</webMaster>
+    <copyright>© 2025 Lex Usamn · Feito com Hugo 🚀 | Sistemas, Bots e IA</copyright>
+    <lastBuildDate>Tue, 19 Aug 2025 14:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>4Men Live Dashboard</title>
+      <link>http://localhost:1313/posts/4men-live-dashboard/</link>
+      <pubDate>Tue, 19 Aug 2025 14:00:00 +0000</pubDate>
+      <author>contato@lexusamn.com.br (Lex Usamn)</author>
+      <guid>http://localhost:1313/posts/4men-live-dashboard/</guid>
+      <description>Dashboard completo para transmissões ao vivo com convidados em tempo real e suporte multiplataforma.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/4men-live-dashboard/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Editor de Vídeo Automatizado (4MenCoop)</title>
+      <link>http://localhost:1313/posts/4mencoop-dasboard/</link>
+      <pubDate>Tue, 19 Aug 2025 14:00:00 +0000</pubDate>
+      <author>contato@lexusamn.com.br (Lex Usamn)</author>
+      <guid>http://localhost:1313/posts/4mencoop-dasboard/</guid>
+      <description>Sistema automatizado que transforma clipes brutos em vídeos prontos para redes sociais com legendas, música e emojis, com postagens automáticas .</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/4mencoop-dasboard/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Bem-vindo ao meu site!</title>
+      <link>http://localhost:1313/posts/bem-vindo/</link>
+      <pubDate>Sun, 17 Aug 2025 10:00:00 -0300</pubDate>
+      <author>contato@lexusamn.com.br (Lex Usamn)</author>
+      <guid>http://localhost:1313/posts/bem-vindo/</guid>
+      <description>Este é o post inicial do site. Aqui vou compartilhar ideias, projetos e aprendizados.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/bem-vindo/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
