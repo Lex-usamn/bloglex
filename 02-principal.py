@@ -3,7 +3,7 @@ import re
 import shutil
 
 # --- CONFIGURAÇÃO ---
-posts_dir = r"E:\site\usa\content\posts"
+posts_dir = r"E:\site\gblog\bloglex\content\posts"
 attachments_dir = r"E:\telos\Vida"
 # O diretório static/images não é mais o destino principal para imagens de posts
 # static_images_dir = r"E:\site\usa\static\images" 
